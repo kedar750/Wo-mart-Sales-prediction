@@ -34,8 +34,12 @@
 
 
 # Model Building: -
-- Lazy predict
-- 
+- Linear regression
+- LASSO
+- SGD regressor
+- Random forest regressor
+- Gradient boosting regressor
+
 
 
 # Hyperparameter Tuning: -
@@ -45,3 +49,4 @@
 - Mean Squared log error[MSLE]
 
 # Conclusion:
+- While performing with multiple model It perform well on random forest. I even check with ARIMA model however normal model perfroms better.
